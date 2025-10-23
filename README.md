@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeez192" alt="moeez192" /></a> </p>
 
-- 🔭 I’m currently working on [Medical ChatBot](https://github.com/moeez192/Medical-ChatBot)
-
 - 🌱 I’m currently learning **NLP and Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/moeez192](https://github.com/moeez192)
